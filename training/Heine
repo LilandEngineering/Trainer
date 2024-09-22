@@ -26,13 +26,13 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Running",
-          "Measurement": "Measure",
+          "Measurement": "Heart rate",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
             "[#73e23]": {
               "Length": 50.0,
-              "Intensity": 100.0
+              "Intensity": 150.0
             }
           }
         }
