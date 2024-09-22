@@ -31,10 +31,10 @@
             },
             "[#3df12]": {
               "Length": 50.0,
-              "Intensity": 100.0
+              "Intensity": 120.0
             }
           },
-          "IF": 1.39
+          "IF": 1.48
         },
         {
           "Type": "Endurance",
