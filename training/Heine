@@ -6,14 +6,14 @@
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
-          "Activity": "Running",
-          "Measurement": "Heart rate",
+          "Activity": "Activity",
+          "Measurement": "Measure",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
-            "[#472d2]": {
-              "Length": 60.0,
-              "Intensity": 172.0
+            "[#4ead5]": {
+              "Length": 50.0,
+              "Intensity": 100.0
             }
           }
         }
