@@ -22,6 +22,20 @@
     "22-09-2024": {
       "Sorted": [
         {
+          "Type": "Weight",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Relative weight": 95,
+          "Session": {
+            "[#a6286]": {
+              "Weight": 10.0,
+              "Reps": 10.0
+            }
+          }
+        },
+        {
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
