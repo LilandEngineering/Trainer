@@ -1,67 +1,19 @@
 {
   "training": {
-    "23-09-2024": {
-      "Sorted": [
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Heart rate",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#07f17]": {
-              "Length": 150.0,
-              "Intensity": 150.0
-            }
-          }
-        }
-      ]
-    },
     "22-09-2024": {
       "Sorted": [
         {
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Power",
+          "Activity": "Activity",
+          "Measurement": "Measure",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
-            "[#47ee3]": {
+            "[#0ac6d]": {
               "Length": 50.0,
               "Intensity": 100.0
-            }
-          }
-        },
-        {
-          "Type": "Weight",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Dips",
-          "Measurement": "Reps",
-          "Relative weight": 95,
-          "Session": {
-            "[#a6286]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            }
-          }
-        },
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Heart rate",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#73e23]": {
-              "Length": 50.0,
-              "Intensity": 150.0
             }
           }
         }
