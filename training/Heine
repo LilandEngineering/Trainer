@@ -6,6 +6,21 @@
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#3d087]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        },
+        {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
           "Activity": "Running",
           "Measurement": "Heart rate",
           "Max puls": 195,
