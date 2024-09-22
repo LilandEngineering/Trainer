@@ -7,12 +7,12 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Activity",
-          "Measurement": "Heart rate",
+          "Measurement": "Power",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
             "[#5e19c]": {
-              "Length": 50.0,
+              "Length": 60.0,
               "Intensity": 360.0
             }
           }
