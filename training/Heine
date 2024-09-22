@@ -7,7 +7,7 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Dips",
-          "Measurement": "Measure",
+          "Measurement": "Reps",
           "Relative weight": 95,
           "Session": {
             "[#55036]": {
@@ -26,6 +26,10 @@
           "FTP": 360,
           "Session": {
             "[#0ac6d]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            },
+            "[#54728]": {
               "Length": 50.0,
               "Intensity": 100.0
             }
