@@ -27,14 +27,14 @@
           "Session": {
             "[#4fbf9]": {
               "Length": 60.0,
-              "Intensity": 170.0
+              "Intensity": 160.0
             },
             "[#3df12]": {
               "Length": 50.0,
               "Intensity": 100.0
             }
           },
-          "IF": 1.4434947768281101
+          "IF": 1.39
         },
         {
           "Type": "Endurance",
