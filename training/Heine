@@ -26,7 +26,7 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Cycling",
-          "Measurement": "Measure",
+          "Measurement": "Power",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
