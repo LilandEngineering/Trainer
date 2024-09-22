@@ -3,47 +3,17 @@
     "22-09-2024": {
       "Sorted": [
         {
-          "Type": "Weight",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Dips",
-          "Measurement": "Reps",
-          "Relative weight": 95,
-          "Session": {
-            "[#55036]": {
-              "Weight": 30.0,
-              "Reps": 5.0
-            },
-            "[#7a447]": {
-              "Weight": 95.0,
-              "Reps": 10.0
-            },
-            "[#c152e]": {
-              "Weight": 10.0,
-              "Reps": 15.0
-            }
-          }
-        },
-        {
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Heart rate",
+          "Activity": "Activity",
+          "Measurement": "Measure",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
-            "[#0ac6d]": {
+            "[#472d2]": {
               "Length": 50.0,
-              "Intensity": 120.0
-            },
-            "[#54728]": {
-              "Length": 50.0,
-              "Intensity": 150.0
-            },
-            "[#dee25]": {
-              "Length": 50.0,
-              "Intensity": 120.0
+              "Intensity": 100.0
             }
           }
         }
