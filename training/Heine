@@ -43,15 +43,16 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Cycling",
-          "Measurement": "Measure",
+          "Measurement": "Power",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
             "[#8478a]": {
               "Length": 50.0,
-              "Intensity": 100.0
+              "Intensity": 400.0
             }
-          }
+          },
+          "IF": 0.93
         }
       ]
     }
