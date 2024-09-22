@@ -47,10 +47,10 @@
           "Session": {
             "[#5e19c]": {
               "Length": 120.0,
-              "Intensity": 360.0
+              "Intensity": 300.0
             }
           },
-          "IF": 2.0
+          "IF": 1.67
         }
       ]
     }
