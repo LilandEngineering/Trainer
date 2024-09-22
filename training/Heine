@@ -46,11 +46,11 @@
           "FTP": 360,
           "Session": {
             "[#5e19c]": {
-              "Length": 60.0,
+              "Length": 120.0,
               "Intensity": 360.0
             }
           },
-          "IF": 1.0
+          "IF": 2.0
         }
       ]
     }
