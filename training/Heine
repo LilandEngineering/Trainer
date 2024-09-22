@@ -3,6 +3,21 @@
     "22-09-2024": {
       "Sorted": [
         {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Cycling",
+          "Measurement": "Heart rate",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#ff2dc]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        },
+        {
           "Type": "Weight",
           "Title": "New session",
           "Text": "",
@@ -17,21 +32,6 @@
             "[#0ec60]": {
               "Weight": 10.0,
               "Reps": 10.0
-            }
-          }
-        },
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Heart rate",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#ff2dc]": {
-              "Length": 50.0,
-              "Intensity": 100.0
             }
           }
         }
