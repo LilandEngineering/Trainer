@@ -11,8 +11,8 @@
           "Relative weight": 95,
           "Session": {
             "[#52cfa]": {
-              "Weight": 10.0,
-              "Reps": 10.0
+              "Weight": 20.0,
+              "Reps": 15.0
             }
           }
         },
