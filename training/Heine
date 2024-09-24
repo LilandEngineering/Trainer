@@ -17,6 +17,25 @@
           }
         }
       ]
+    },
+    "03-08-2024": {
+      "Sorted": [
+        {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#06209]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        }
+      ]
     }
   }
 }
