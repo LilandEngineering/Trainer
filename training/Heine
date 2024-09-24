@@ -52,9 +52,17 @@
             "[#50fed]": {
               "Length": 50.0,
               "Intensity": 100.0
+            },
+            "[#f58d3]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            },
+            "[#d4a8d]": {
+              "Length": 50.0,
+              "Intensity": 100.0
             }
           },
-          "IF": 0.47
+          "IF": 1.42
         }
       ]
     }
