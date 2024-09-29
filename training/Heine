@@ -1,3 +1,23 @@
 {
-  "training": {}
+  "training": {
+    "21-09-2024": {
+      "Sorted": [
+        {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#fa84e]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        }
+      ]
+    }
+  }
 }
