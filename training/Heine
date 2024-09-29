@@ -7,15 +7,24 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Running",
-          "Measurement": "Measure",
+          "Measurement": "Heart rate",
           "Max puls": 195,
           "FTP": 360,
           "Session": {
             "[#fa84e]": {
               "Length": 50.0,
               "Intensity": 100.0
+            },
+            "[#539ec]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            },
+            "[#ee00e]": {
+              "Length": 50.0,
+              "Intensity": 100.0
             }
-          }
+          },
+          "LIFT": 1.42
         }
       ]
     }
