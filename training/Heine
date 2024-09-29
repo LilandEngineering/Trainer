@@ -14,13 +14,9 @@
             "[#b8c20]": {
               "Length": 50.0,
               "Intensity": 100.0
-            },
-            "[#0b0d9]": {
-              "Length": 50.0,
-              "Intensity": 100.0
             }
           },
-          "LIFT": 0.95
+          "LIFT": 0.47
         }
       ]
     }
