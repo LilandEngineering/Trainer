@@ -15,16 +15,12 @@
               "Length": 50.0,
               "Intensity": 100.0
             },
-            "[#dd73c]": {
-              "Length": 50.0,
-              "Intensity": 100.0
-            },
             "[#0b0d9]": {
               "Length": 50.0,
               "Intensity": 100.0
             }
           },
-          "LIFT": 1.42
+          "LIFT": 0.95
         }
       ]
     }
