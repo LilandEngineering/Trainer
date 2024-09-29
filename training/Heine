@@ -7,14 +7,27 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Dips",
-          "Measurement": "Measure",
+          "Measurement": "Reps",
           "Relative weight": 95,
           "Session": {
             "[#7415b]": {
               "Weight": 10.0,
               "Reps": 10.0
+            },
+            "[#277a4]": {
+              "Weight": 10.0,
+              "Reps": 10.0
+            },
+            "[#2545f]": {
+              "Weight": 10.0,
+              "Reps": 10.0
+            },
+            "[#977e7]": {
+              "Weight": 10.0,
+              "Reps": 10.0
             }
-          }
+          },
+          "LIFT": 0
         },
         {
           "Type": "Endurance",
