@@ -13,10 +13,10 @@
           "Session": {
             "[#b8c20]": {
               "Length": 50.0,
-              "Intensity": 100.0
+              "Intensity": 150.0
             }
           },
-          "LIFT": 0.47
+          "LIFT": 0.71
         }
       ]
     }
