@@ -1,3 +1,23 @@
 {
-  "templates": {}
+  "templates": {
+    "[#29b96]": {
+      "Type": "Endurance",
+      "Title": "2x 50 min",
+      "Text": "",
+      "Activity": "Running",
+      "Measurement": "Heart rate",
+      "Max puls": 195,
+      "FTP": 360,
+      "Session": {
+        "[#e5c02]": {
+          "Length": 50.0,
+          "Intensity": 100.0
+        },
+        "[#ff370]": {
+          "Length": 50.0,
+          "Intensity": 100.0
+        }
+      }
+    }
+  }
 }
