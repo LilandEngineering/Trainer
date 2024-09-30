@@ -51,24 +51,7 @@
       ]
     },
     "30-09-2024": {
-      "Sorted": [
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Cycling",
-          "Measurement": "Power",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#e2568]": {
-              "Length": 50.0,
-              "Intensity": 100.0
-            }
-          },
-          "LIFT": 0.23
-        }
-      ]
+      "Sorted": []
     }
   }
 }
