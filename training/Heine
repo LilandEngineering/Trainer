@@ -51,23 +51,7 @@
       ]
     },
     "30-09-2024": {
-      "Sorted": [
-        {
-          "Type": "Weight",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Dips",
-          "Measurement": "Reps",
-          "Relative weight": 95,
-          "Session": {
-            "[#c3ebc]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            }
-          },
-          "LIFT": 0
-        }
-      ]
+      "Sorted": []
     }
   }
 }
