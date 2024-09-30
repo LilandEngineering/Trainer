@@ -51,7 +51,23 @@
       ]
     },
     "30-09-2024": {
-      "Sorted": []
+      "Sorted": [
+        {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#e5c02]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        }
+      ]
     }
   }
 }
