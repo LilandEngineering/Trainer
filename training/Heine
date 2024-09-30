@@ -73,14 +73,15 @@
           "Title": "New session",
           "Text": "",
           "Activity": "Dips",
-          "Measurement": "Measure",
+          "Measurement": "Reps",
           "Relative weight": 95,
           "Session": {
             "[#57892]": {
               "Weight": 10.0,
               "Reps": 10.0
             }
-          }
+          },
+          "LIFT": 0
         }
       ]
     }
