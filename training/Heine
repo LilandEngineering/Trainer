@@ -28,22 +28,6 @@
             }
           },
           "LIFT": 0
-        },
-        {
-          "Type": "Endurance",
-          "Title": "Langtur",
-          "Text": "",
-          "Activity": "Running",
-          "Measurement": "Heart rate",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#b8c20]": {
-              "Length": 120.0,
-              "Intensity": 130.0
-            }
-          },
-          "LIFT": 1.48
         }
       ]
     },
