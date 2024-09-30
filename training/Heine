@@ -66,22 +66,6 @@
             }
           },
           "LIFT": 0
-        },
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Running",
-          "Measurement": "Power",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#6e42c]": {
-              "Length": 50.0,
-              "Intensity": 100.0
-            }
-          },
-          "LIFT": 0.23
         }
       ]
     }
