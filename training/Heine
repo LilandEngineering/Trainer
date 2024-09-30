@@ -1,36 +1,5 @@
 {
   "training": {
-    "21-09-2024": {
-      "Sorted": [
-        {
-          "Type": "Weight",
-          "Title": "Dips 4x10repx10kg",
-          "Text": "",
-          "Activity": "Dips",
-          "Measurement": "Reps",
-          "Relative weight": 95,
-          "Session": {
-            "[#7415b]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            },
-            "[#277a4]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            },
-            "[#2545f]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            },
-            "[#977e7]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            }
-          },
-          "LIFT": 0
-        }
-      ]
-    },
     "29-09-2024": {
       "Sorted": [
         {
