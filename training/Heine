@@ -23,29 +23,6 @@
     "02-10-2024": {
       "Sorted": [
         {
-          "Type": "Weight",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Dips",
-          "Measurement": "Reps",
-          "Relative weight": 95,
-          "Session": {
-            "[#71511]": {
-              "Weight": 20.0,
-              "Reps": 20.0
-            },
-            "[#04220]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            },
-            "[#7c2e1]": {
-              "Weight": 10.0,
-              "Reps": 10.0
-            }
-          },
-          "LIFT": 0
-        },
-        {
           "Type": "Endurance",
           "Title": "New session",
           "Text": "",
