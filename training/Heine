@@ -39,6 +39,25 @@
           "LIFT": 0.61
         }
       ]
+    },
+    "03-10-2024": {
+      "Sorted": [
+        {
+          "Type": "Endurance",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Max puls": 195,
+          "FTP": 360,
+          "Session": {
+            "[#3277b]": {
+              "Length": 50.0,
+              "Intensity": 100.0
+            }
+          }
+        }
+      ]
     }
   }
 }
