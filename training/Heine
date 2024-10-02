@@ -44,7 +44,22 @@
       ]
     },
     "04-10-2024": {
-      "Sorted": []
+      "Sorted": [
+        {
+          "Type": "Weight",
+          "Title": "New session",
+          "Text": "",
+          "Activity": "Activity",
+          "Measurement": "Measure",
+          "Relative weight": 95,
+          "Session": {
+            "[#e0d98]": {
+              "Weight": 10.0,
+              "Reps": 10.0
+            }
+          }
+        }
+      ]
     }
   }
 }
