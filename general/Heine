@@ -1,1 +1,32 @@
-{}
+{
+  "general": {
+    "User": "Heine",
+    "activitytype": {
+      "Endurance": {
+        "Cycling": "",
+        "Running": ""
+      },
+      "Weight": {
+        "Dips": ""
+      }
+    },
+    "measurementactivity": {
+      "Endurance": {
+        "Heart rate": "HR",
+        "Power": "Watt"
+      },
+      "Weight": {
+        "Reps": "Weight"
+      }
+    },
+    "performance": {
+      "Endurance": {
+        "FTP": 360,
+        "Max puls": 195
+      },
+      "Weight": {
+        "Relative weight": 95
+      }
+    }
+  }
+}
