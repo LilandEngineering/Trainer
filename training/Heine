@@ -21,24 +21,7 @@
       ]
     },
     "02-10-2024": {
-      "Sorted": [
-        {
-          "Type": "Endurance",
-          "Title": "New session",
-          "Text": "",
-          "Activity": "Running",
-          "Measurement": "Heart rate",
-          "Max puls": 195,
-          "FTP": 360,
-          "Session": {
-            "[#f0f23]": {
-              "Length": 40.0,
-              "Intensity": 160.0
-            }
-          },
-          "LIFT": 0.61
-        }
-      ]
+      "Sorted": []
     },
     "03-10-2024": {
       "Sorted": [
